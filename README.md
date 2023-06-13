@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.gif"  />
-</div>
+![](https://media.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.gif)
 
 ###
 
