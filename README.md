@@ -1,4 +1,6 @@
-![Alt Text](https://media.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.gif)
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.gif"  />
+</div>
 
 ###
 
