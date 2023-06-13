@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/akikokoo/akikokoo/assets/62213278/bdc96956-30a5-4f97-a76e-8882dbb6a442" alt="animated" />
 </p>
-![7AQ](https://github.com/akikokoo/akikokoo/assets/62213278/bdc96956-30a5-4f97-a76e-8882dbb6a442)
-
 ###
 
 <div align="center">
