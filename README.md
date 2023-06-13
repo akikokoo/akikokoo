@@ -1,5 +1,7 @@
 ![](https://github.com/akikokoo/akikokoo/blob/master/7AQ.gif)
-
+<div align="center">
+  <img height="150" src="https://github.com/akikokoo/akikokoo/blob/master/7AQ.gif"  />
+</div>
 ###
 
 <div align="center">
