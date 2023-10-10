@@ -47,6 +47,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" height="40" alt="html5 logo"  />
   <img width="12" />
 </div>
