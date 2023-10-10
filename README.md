@@ -38,7 +38,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" height="40" alt="python logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
