@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Akif Emre Reis from Turkey<br><br>- 🔭 I’m an Artifical Intelligence Engineering Student<br>- 📚 I'm currently learning Django REST Framework, PostgreSQL<br>- ⚡ In my free time I like to play video games and do research about sociology and history</p>
+<p align="left">I'm Akif Emre Reis from Turkey<br><br>- 🔭 I’m an Artifical Intelligence Engineering Student<br>- 📚 I'm currently learning Frontend Development<br></p>
 
 ###
 
