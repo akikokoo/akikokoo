@@ -50,6 +50,19 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
