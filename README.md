@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="40" alt="html5 logo"  />
+  
   
 </div>
 
