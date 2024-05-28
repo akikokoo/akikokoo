@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"> I'm Akif Emre Reis from Turkey<br><br>- 🔭 An Artifical Intelligence Engineering Student<br>- 📚 Currently learning Frontend Development<br></p>
+<p align="left"> I'm Akif Emre Reis from Turkey<br><br>- 🔭 An Artifical Intelligence Engineering Student<br>- 📚 Currently learning Frontend Development and ML<br></p>
 
 ###
 
