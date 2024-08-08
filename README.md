@@ -14,8 +14,8 @@
 
 ## 🛠️ Tech Stack
 
-### 📊 ML & AI
-<div align="left">
+### <div align="center">📊 ML & AI</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="35" alt="Pandas logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="35" alt="NumPy logo" />
@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" alt="scikit-learn logo" />
 </div>
 
-### 🌐 Web Development
-<div align="left">
+### <div align="center">🌐 Web Development</div>
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" alt="HTML logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" alt="CSS logo" />
@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/django%35rest-ff1709?style=for-the-badge&logo=django&logoColor=white" height="35" alt="Django logo" />
 </div>
 
-### 🖥️ General
-<div align="left">
+### <div align="center">🖥️ General</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="35" alt="Python logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="PostgreSQL logo" />
@@ -58,6 +58,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="35" alt="Postman logo" />
 </div>
+
 
 ###
 
