@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="35" alt="NumPy logo" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" height="35" alt="scikit-learn logo" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" alt="scikit-learn logo" />
 </div>
 
 ### 🌐 Web Development
@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="35" alt="Git logo" />
   <img width="12" />
-  <img src="	https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="35" alt="Bash logo" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="35" alt="Bash logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="35" alt="C logo" />
   <img width="12" />
