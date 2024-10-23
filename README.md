@@ -16,6 +16,8 @@
 
 ### <div align="center">📊 ML & AI</div>
 <div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="35" alt="Pandas logo" />
+  <img width="18" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="35" alt="Pandas logo" />
   <img width="18" />
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="35" alt="NumPy logo" />
