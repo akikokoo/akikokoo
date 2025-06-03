@@ -54,10 +54,6 @@
   <img width="18" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="35" alt="Git logo" />
   <img width="18" />
-  <img src="https://img.shields.io/badge/Shell_Script-181011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="35" alt="Bash logo" />
-  <img width="18" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="35" alt="C logo" />
-  <img width="18" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="35" alt="Postman logo" />
 </div>
 
