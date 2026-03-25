@@ -56,7 +56,6 @@ I'm an AI Engineering student at **TOBB ETU** with expertise in building product
 
 ### 💌 Let's Connect  
 📧 [akifemre611@hotmail.com](mailto:akifemre611@hotmail.com)  
-🔗 [GitHub](https://github.com/akikokoo)  
 💼 [LinkedIn](https://www.linkedin.com/in/akif-emre-reis/)
 
 ---
