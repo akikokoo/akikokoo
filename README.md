@@ -49,7 +49,7 @@ I'm an AI Engineering student at **TOBB ETU** with expertise in building product
 
 - **Other Tools**  
   ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)  
-  ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&style=for-the-badge&logoColor=white)
+  ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&style=for-the-badge&logoColor=fff)
 
 
 ---
