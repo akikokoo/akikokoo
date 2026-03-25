@@ -1,44 +1,27 @@
-# 👋 Hi, I'm Akif Emre Reis
-
-## 🎓 About Me
-
-I'm an AI Engineering student from Turkey with a passion for Machine Learning and Deep Learning. Currently learning and working on building AI solutions and exploring their applications.
-
-- 🔭 I’m currently learning Machine Learning and Deep Learning.
-- 🌱 I'm building AI projects and learning new tools and technologies.
-- 💼 Currently an AI Engineer working on ERP integrations and AI-powered solutions.
-
-## 🛠️ Tech Stack
-
-### 📊 AI & Machine Learning
-- ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-- ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-- ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🌐 Web Development
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🖥️ General
-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-## 💼 What I Do
-
-I’m passionate about building scalable AI solutions. Currently, I’m working on:
-
-- Building production-ready AI models for various applications.
-- Exploring data pipelines and their role in AI.
-- Developing APIs and backend services to support AI models.
-
-## 📬 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/akif-emre-reis/)
-- [Email](mailto:fika61ts@gmail.com)
+Akif Emre Reis
+AI Engineer | Ankara, Turkey
+---
+👋 About Me
+AI Engineering student at TOBB ETU with expertise in building production-grade AI systems, RAG chatbots, and intelligent automation. Currently working as an AI Engineer at Fırat Life Style, architecting LLM-powered solutions for enterprise ERP integration.
+Focus areas: Large Language Models, Retrieval-Augmented Generation (RAG), embedding pipelines, LLM evaluation, and AI-driven automation.
+---
+🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-001F30?style=for-the-badge&logo=langchain&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+---
+💌 Let's Connect
+📧 akifemre611@hotmail.com  
+🔗 GitHub  
+💼 LinkedIn
