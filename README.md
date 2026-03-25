@@ -35,9 +35,8 @@ I'm an AI Engineering student at **TOBB ETU** with expertise in building product
 #### **Frameworks & Tools**
 - **Web Frameworks**  
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-
 
 - **Containerization & Deployment**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,7 +51,6 @@ I'm an AI Engineering student at **TOBB ETU** with expertise in building product
 - **Other Tools**  
   ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)  
   ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&style=for-the-badge&logoColor=000)
-
 
 ---
 
