@@ -24,7 +24,7 @@ I'm an AI Engineering student at TOBB ETU with expertise in building production-
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)]
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### 💌 Let's Connect
 📧 [akifemre611@hotmail.com](mailto:akifemre611@hotmail.com) · 🔗 [GitHub](https://github.com/akikokoo) · 💼 [LinkedIn](https://www.linkedin.com/in/akif-emre-reis/)
