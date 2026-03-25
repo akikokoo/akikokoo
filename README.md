@@ -20,8 +20,9 @@ I'm an AI Engineering student from Turkey with a passion for Machine Learning an
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- ![React](https://img.shields.io/badge/React-35232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Next.js](https://img.shields.io/badge/next%35js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🖥️ General
 - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -33,9 +34,9 @@ I'm an AI Engineering student from Turkey with a passion for Machine Learning an
 
 I’m passionate about building scalable AI solutions. Currently, I’m working on:
 
-- Building production-ready AI models for various applications
-- Exploring data pipelines and their role in AI
-- Developing APIs and backend services to support AI models
+- Building production-ready AI models for various applications.
+- Exploring data pipelines and their role in AI.
+- Developing APIs and backend services to support AI models.
 
 ## 📬 Let's Connect!
 
