@@ -10,7 +10,6 @@ I'm an AI Engineering student at TOBB ETU with expertise in building production-
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI / ML**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -25,6 +24,7 @@ I'm an AI Engineering student at TOBB ETU with expertise in building production-
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ### 💌 Let's Connect
 📧 [akifemre611@hotmail.com](mailto:akifemre611@hotmail.com) · 🔗 [GitHub](https://github.com/akikokoo) · 💼 [LinkedIn](https://www.linkedin.com/in/akif-emre-reis/)
