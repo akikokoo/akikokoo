@@ -6,13 +6,6 @@
 ### 👋 About Me
 I'm an AI Engineering student at **TOBB ETU** with expertise in building production-grade AI systems, RAG chatbots, and intelligent automation. Currently working as an AI Engineer at **Fırat Life Style**, architecting LLM-powered solutions for enterprise ERP integration.  
 
-**Focus Areas**:
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Embedding Pipelines
-- LLM Evaluation
-- AI-Driven Automation
-
 ---
 
 ### 🛠️ Tech Stack
